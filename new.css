@@ -1,0 +1,109 @@
+h1{
+    background-color: black;
+    border-radius: 6px;
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+ 
+}
+ 
+#st{
+    height: 220px;
+    width: 200px;
+    text-align: center;
+    border: 1.5px solid black;
+    border-radius: 5px;
+    /* margin-left: 3rem; */
+    margin-top: 200px;
+  background-color: rgb(41, 41, 181);
+  font-size: 30px;
+  font-family: 'Courier New', Courier, monospace;
+  display: flex;
+   align-items: center;
+   justify-content: center;
+   font-weight: 700;
+   color: rgb(233, 163, 163);
+   margin-top: 150px;
+}
+#st:hover{
+    cursor: pointer;
+}
+#nd:hover{
+    cursor: pointer;
+}
+#rd:hover{
+    cursor: pointer;
+}
+#th:hover{
+    cursor: pointer;
+}
+#nd{
+    height: 220px;
+    width: 200px;
+    text-align: center;
+    border: 1.5px solid black;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-top: 150px;
+  background-color: mediumseagreen;
+  font-size: 30px;
+  font-family: 'Courier New', Courier, monospace;
+  display: flex;
+   align-items: center;
+   justify-content: center;
+   font-weight: 700;
+   color: rgb(0, 0, 0);
+}
+#rd{
+    height: 220px;
+    width: 200px;
+    text-align: center;
+    border: 1.5px solid black;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-top: 150px;
+   background-color: yellow;
+   font-size: 30px;
+   font-family: 'Courier New', Courier, monospace;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   font-weight: 700;
+   color: rgb(188, 33, 33);
+}
+#th{
+    height: 220px;
+    width: 200px;
+    border: 1.5px solid black;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-top: 150px;
+    text-align: center;
+  background-color: orchid;
+  font-size: 30px;
+  display: flex;
+   align-items: center;
+  font-family: 'Courier New', Courier, monospace;
+  justify-content: center;
+   font-weight: 700;
+   color: rgb(22, 12, 12);
+}
+ 
+#main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+ 
+#mar{
+    background-color: black;
+    color: rgb(171, 41, 41);
+    font-size: 50px;
+    margin-top: 50%;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    margin: 0;
+    background-color: lavenderblush;
+}
